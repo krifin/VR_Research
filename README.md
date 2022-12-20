@@ -3,9 +3,15 @@ Aim: To test our Virtual reality multi-sensorial experience
 
 a revolutionary discovery experience that mixes touch, smell, sound and sight for a fully immersive journey across the world of Metaverse & Gaming.
 
+![d3bcd68dc28c78f6a5ecc593a37f24d1](https://user-images.githubusercontent.com/121123118/208746937-391810dc-550b-412b-87bd-b079e40ae61e.jpg)
+
+
 Virtual reality "Is memory data?" experience
 When we were asked by our partners to try to creatively envision the question "Is memory data?", we have to admit - we scratch our heads for a little bit. In the same time, One of the research lab envisioned an activation which would be more of an art installation than your average marketing activation.  What we have envisioned for this project was very simple in its elegance. Using nothing more than a bucket, a garden hose and a virtual reality headset, we have placed the user into the center of the experience in which the element of water was presented in a way not seen before.
 Upon placing the VR headset on them, visitors would be asked to place their hands under the running water. Achieving synesthesia while combining the element of water with rich graphical content, we strived to show that there is more to life and living than it can be seen with the naked eye.
+
+
+![c09c57d64d39d531dd1bbc29eb70416b](https://user-images.githubusercontent.com/121123118/208746940-60e4f744-06ab-4d95-a381-1c1e17026393.jpg)
 
 To conduct this research study, we plan to work with several pyschologist & neuroscientist & use the Morris Water Maze(MWM) Methodology.
 
